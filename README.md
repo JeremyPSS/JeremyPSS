@@ -1,6 +1,6 @@
 Hi there 👋
 
-- My name is Jeremy Prieto and I majoring in IT
-- I'm a student focused in learn a lot about nothing
+- My name is Jeremy Prieto
+- I'm MILF enthusiast
 
-Languages in these repos include C# and a little bit of ASP.NET
+Languages in these repos include C#, Java and a little bit of ASP.NET
