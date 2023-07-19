@@ -1,2 +1,2 @@
 Hi there 👋
-[About me](https://jeremyprieto.com)
+[About me](https://JeremyPSS.github.io)
